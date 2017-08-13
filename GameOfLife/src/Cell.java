@@ -2,7 +2,7 @@ import java.awt.*;
 
 public class Cell {
 
-    public static final int CELL_SIZE = 4;
+    public static final int CELL_SIZE = 8;
 
     private static final Color aliveColor = Color.YELLOW, deadColor = Color.LIGHT_GRAY;
 
